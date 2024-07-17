@@ -102,7 +102,7 @@ Desta forma, o projeto visa desenvolver as habilidades de programação orientad
 
 6. Crie um `Pull Request` _(PR)_
 
-- Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/java-0x-projeto-sistema-de-votacao/pulls).
+- Vá até a página de _Pull Requests_ do [repositório no GitHub](https://github.com/tryber/java-036-java-projeto-sistema-de-votacao/pulls).
     - Clique no botão verde _"New pull request"_.
     - Clique na caixa de seleção _"Compare"_ e escolha a sua branch **com atenção**.
 - Coloque um título para o seu _Pull Request_.
@@ -114,7 +114,7 @@ Desta forma, o projeto visa desenvolver as habilidades de programação orientad
 
  <img width="1335" alt="Exemplo de pull request" src="https://user-images.githubusercontent.com/42356399/166255109-b95e6eb4-2503-45e5-8fb3-cf7caa0436e5.png">
 
-- Volte até a [página de _Pull  Requests_ do repositório](https://github.com/tryber/java-0x-projeto-sistema-de-votacao/pulls) e confira
+- Volte até a [página de _Pull  Requests_ do repositório](https://github.com/tryber/java-036-java-projeto-sistema-de-votacao/pulls) e confira
   que o seu _Pull Request_ está criado.
 
 </details>
@@ -426,7 +426,7 @@ Se a pessoa escolher a opção 2 ("Resultado parcial"), o resultado parcial deve
 
 <summary><strong> 🗣 Nos dê feedbacks sobre o projeto!</strong></summary>
 
-Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência preenchendo o [formulário](https://be-trybe.typeform.com/to/ZTeR4IbH).
+Ao finalizar e submeter o projeto, não se esqueça de avaliar sua experiência preenchendo o [formulário](https://be-trybe.typeform.com/to/ZTeR4IbH#cohort_hidden=CH36-JAVA&template=betrybe/java-0x-projeto-sistema-de-votacao).
 **Leva menos de 3 minutos!**
 
 </details>
