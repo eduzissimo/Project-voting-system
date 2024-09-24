@@ -8,8 +8,6 @@ Boas-vindas ao repositório do projeto Sistema de Votação
 
 Com as habilidades adquiridas em Java, surgiu um novo desafio: desenvolver um sistema de votação eletrônico!
 
-Imagine só: seu sistema deve possibilitar o cadastro de todas as nossas pessoas candidatas e eleitoras, além de coordenar todo o processo de votação. E tem mais, você será capaz de verificar os resultados da eleição a qualquer momento.
-
 Durante o seu desenvolvimento foi preciso seguir quatro etapas essenciais:
 
 1. Cadastrar pessoas candidatas
