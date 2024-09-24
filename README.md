@@ -29,7 +29,6 @@ O objetivo deste projeto é praticar a lógica de programação em um contexto d
 5. Criar novos programas Java utilizando os conceitos de POO, organizando o código de maneira lógica e eficiente.
 6. Avaliar a eficácia de diferentes abordagens de programação em Java, considerando fatores como legibilidade, eficiência e facilidade de manutenção.
 
-Desta forma, o projeto visa desenvolver as habilidades de programação orientada a objetos dos participantes, desde o nível de conhecimento até a capacidade de avaliar e criar seus próprios códigos em Java.
 
 </details>
 
