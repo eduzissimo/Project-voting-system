@@ -20,7 +20,7 @@ O objetivo deste projeto é praticar a lógica de programação em um contexto d
 </details>
 
 <details>
-  <summary><strong>:memo: Habilidades a serem trabalhadas</strong></summary>
+  <summary><strong>:memo: Habilidades trabalhadas</strong></summary>
 
 1. Compreender os conceitos fundamentais da Programação Orientada a Objetos (POO) e como a linguagem Java aplica esses conceitos.
 2. Entender a importância de conceitos como classes, objetos, métodos, encapsulamento, herança, polimorfismo, interfaces e classes abstratas na POO.
